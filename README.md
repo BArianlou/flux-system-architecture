@@ -3,7 +3,7 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
 ![Version](https://img.shields.io/badge/version-6.0.0-blue?style=flat-square)
 ![Architecture](https://img.shields.io/badge/architecture-cybernetic-purple?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
+![License](https://img.shields.io/badge/license-PROPRIETARY-red?style=flat-square)
 ![Domain](https://img.shields.io/badge/domain-universal_simulation-orange?style=flat-square)
 
 > **"Standard models predict the destination. FLUX simulates the journey."**
