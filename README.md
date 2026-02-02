@@ -22,7 +22,7 @@ Whether applied to **High-Frequency Trading (Liquidity Cascades)**, **Supply Cha
 
 FLUX operates as a **Closed-Loop Reactor**. It does not output a single prediction; it generates a probability surface based on thousands of recursive Monte Carlo lifecycles.
 
-![Flux Reactor Architecture](assets/flux_reactor_architecture.png)
+![Flux Reactor Architecture](flux_reactor_architecture.png)
 
 ### The Three Phases of Flux
 
