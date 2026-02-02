@@ -1,6 +1,6 @@
 # Beyond Regression: Simulating the Flux of State-Dependent Systems
 
-**Author:** Sovereign Logic Architecture  
+**Author:** Bijan Arianlou  
 **Date:** February 2026  
 **Classification:** Public  
 
