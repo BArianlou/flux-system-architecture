@@ -254,7 +254,7 @@ def flux_recursive_step(state):
 *File:* `examples/logic_pseudocode.md`
 *Action:* Match Appendix B exactly.
 
-1.  Go to `examples/logic_pseudocode.md`.
+1.  Go to `examples/logic_pseudo code.md`.
 2.  Click **Edit**.
 3.  **Delete existing code.**
 4.  **Paste** the code block from **Appendix B** (above).
