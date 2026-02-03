@@ -1,4 +1,4 @@
-# BEYOND REGRESSION: Simulating the Flux of State-Dependent Systems
+# THE ENTROPY GAP: Simulating Friction and Decay in State-Dependent Systems
 
 **Author:** Bijan Arianlou  
 **Date:** February 2026  
