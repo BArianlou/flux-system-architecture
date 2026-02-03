@@ -82,5 +82,5 @@ def flux_recursive_step(state):
         return new_state.terminal_value
 5. Documentation & Citation
 For a detailed analysis of the mathematical principles behind FLUX, please refer to the White Paper located in this repository:
-* 📄 [Beyond Regression: Simulating the Flux of State-Dependent Systems](white_paper/BEYOND_REGRESSION.md)
+* 📄 [https://github.com/BArianlou/flux-system-architecture/blob/main/white_paper/BEYOND_REGRESSION.md)
 Installation
